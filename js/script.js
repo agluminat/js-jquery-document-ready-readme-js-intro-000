@@ -1,3 +1,3 @@
 $(document).ready(function() {
-  $("#text").append("This is so freaking cool.")
+  $("#text").append("his is so freaking cool.")
 })
